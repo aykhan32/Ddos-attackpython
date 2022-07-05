@@ -17,7 +17,7 @@ os.system("figlet DDos Attack")
 print
 print("Author   : Aykhan32")
 print("github   : https://github.com/aykhan32")
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
 os.system("figlet Attack Starting")
